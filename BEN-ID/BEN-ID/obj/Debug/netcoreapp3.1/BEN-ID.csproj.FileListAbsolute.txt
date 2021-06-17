@@ -1,0 +1,12 @@
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/bin/Debug/netcoreapp3.1/BEN-ID.deps.json
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/bin/Debug/netcoreapp3.1/BEN-ID.runtimeconfig.json
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/bin/Debug/netcoreapp3.1/BEN-ID.runtimeconfig.dev.json
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/bin/Debug/netcoreapp3.1/BEN-ID.dll
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/bin/Debug/netcoreapp3.1/BEN-ID.pdb
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.csprojAssemblyReference.cache
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.AssemblyInfoInputs.cache
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.AssemblyInfo.cs
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.csproj.CoreCompileInputs.cache
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.dll
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.pdb
+/Users/johan/Projects/BEN_ID/BEN-ID/BEN-ID/obj/Debug/netcoreapp3.1/BEN-ID.genruntimeconfig.cache
